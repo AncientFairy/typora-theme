@@ -58,7 +58,7 @@
   font-size: 1.5rem;
 
   letter-spacing: 2px;
-  background: #159957;
+  background: #406CA4;
   padding: 10px 10px;
 }
 
@@ -70,7 +70,7 @@
 #write h3 {
   font-size: 1.4rem;
 
-  border: 2px solid #406CA4;
+  border: 2px solid #159957;
   border-radius: 5px;
   letter-spacing: 2px;
 }
@@ -78,10 +78,10 @@
 #write h3 span {
   display: block;
   color: #ffffff;
-  background: #406CA4;
+  background: #159957;
   padding: 5px 10px;
   margin: 3px 3px;
-  border: 2px solid #406CA4;
+  border: 2px solid #159957;
   border-radius: 5px;
 }
 
