@@ -70,7 +70,7 @@
 #write h3 {
   font-size: 1.4rem;
 
-  border: 2px solid #FF6F00;
+  border: 2px solid #406CA4;
   border-radius: 5px;
   letter-spacing: 2px;
 }
@@ -78,10 +78,10 @@
 #write h3 span {
   display: block;
   color: #ffffff;
-  background: #E57373;
+  background: #406CA4;
   padding: 5px 10px;
   margin: 3px 3px;
-  border: 2px solid #FF6F00;
+  border: 2px solid #406CA4;
   border-radius: 5px;
 }
 
@@ -198,7 +198,7 @@
   border-radius: 4px;
   margin: 0 2px;
   color: rgb(239, 112, 96);
-  ;
+;
   background-color: rgba(27, 31, 35, .05);
   font-family: Operator Mono, Consolas, Monaco, Menlo, monospace;
   word-break: break-all;
