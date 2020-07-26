@@ -59,23 +59,14 @@
   font-size: 1.5rem;
 
   letter-spacing: 2px;
-  background: #214eb3;
   padding: 10px 10px;
-  border-radius: 5px;
+  border-left: 6px solid #f22f27 ;
 }
 
-#write h2 span {
-  display: block;
-  color: #ffffff;
-  border-radius: 5px;
-}
 
 #write h3 {
   font-size: 1.4rem;
 
-  border: 2px solid #159957;
-  border-radius: 5px;
-  letter-spacing: 2px;
 }
 
 #write h3 span {
@@ -83,7 +74,6 @@
   color: #ffffff;
   background: #159957;
   padding: 5px 10px;
-  margin: 3px 3px;
   border: 2px solid #159957;
   border-radius: 5px;
 }
@@ -130,6 +120,19 @@
   font-weight: bold;
   color: #159957;
 }
+
+
+/* 三级四级五级六级标题点击后左边的提示图标 */
+#write > h3.md-focus:before,
+#write > h4.md-focus:before,
+#write > h5.md-focus:before,
+#write > h6.md-focus:before{
+  width: auto;
+  height: auto;
+  background-color: var(--main-5);
+  color: var(--mid-1);
+}
+
 
 /*列表*/
 #write ul,
