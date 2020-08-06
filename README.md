@@ -1,5 +1,9 @@
 # typora-theme-xuweiwei
 
+## 样式的预览
+
+![样式的演示](images/样式的演示.jpg)
+
 ## 安装
 * `Typora`软件：文件-->偏好设置（外观）-->主题-->打开主题文件夹。
 * 将`xuweiwei.css`文件复制粘贴到`Typora`主题文件夹内。
