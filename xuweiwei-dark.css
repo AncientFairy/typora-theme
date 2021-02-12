@@ -318,6 +318,9 @@ blockquote {
   color: #000;
 }
 
+#write input[type=checkbox] {
+    top: 10px;
+}
 
 /* 代码块主题 */
 
